@@ -1,2 +1,4 @@
 # chavez_cabrera_rojas_barturen
 T06
+chavez_cabrera_lidia
+rojas_barturen_elsa
